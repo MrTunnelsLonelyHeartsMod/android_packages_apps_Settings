@@ -253,6 +253,10 @@
   <string name="unlock_scramble_pin_layout_summary">Cambiar la disposición de los números del PIN para desbloquear el dispositivo</string>
   <!-- lock screen visualizer -->
   <string name="lockscreen_visualizer_title">Mostrar visualizador musical</string>
+  <!-- Lock screen cover art -->
+  <string name="lockscreen_media_art_title">Mostrar portada del álbum</string>
+  <!-- Double tap to sleep on keyguard -->
+  <string name="double_tap_sleep_anywhere_title">Doble toque desde cualquier sitio para suspender</string>
   <!-- Protected apps lockpattern reset button -->
   <string name="lockpattern_reset_button">Restablecer patrón</string>
   <string name="lockpattern_settings_reset_summary">Introducir la cuenta de correo principal y su contraseña asociada para restablecer el patrón de bloqueo</string>
@@ -413,11 +417,20 @@
   <string name="sim_enabler_need_switch_data_service">Esta tarjeta SIM será desactivada y <xliff:g id="slotid">%1$s </xliff:g> y se utilizará para servicios de datos. ¿Estás seguro que deseas continuar?</string>
   <string name="sim_enabler_airplane_on">No se puede realizar la operación mientras esté activado el modo avión.</string>
   <string name="sim_enabler_in_call">No se puede realizar la operación mientras haya una llamada en curso.</string>
-  <string name="sim_enabler_both_inactive">No es posible desactivar todas las tarjetas SIM</string>
+  <string name="sim_enabler_both_inactive">Imposible desactivar todas las tarjetas SIM</string>
   <string name="sim_enabler_enabling">Activando\u2026</string>
   <string name="sim_enabler_disabling">Desactivando\u2026</string>
   <string name="sub_activate_success">SIM activada.</string>
   <string name="sub_activate_failed">Error de activación.</string>
   <string name="sub_deactivate_success">SIM desactivada.</string>
   <string name="sub_deactivate_failed">Error de desactivación.</string>
+  <!-- About phone settings screen, setting option dialog title to show regulatory information [CHAR LIMIT=25] -->
+  <!-- SAR information -->
+  <string name="maximum_head_level">Cabeza: %1$s W/kg</string>
+  <string name="maximum_body_level">Cuerpo: %1$s W/kg</string>
+  <!-- IC Codes -->
+  <string name="ic_code_model">Modelo: %1$s</string>
+  <string name="ic_code_full">IC: %1$s</string>
+  <!-- Label for settings shortcut: carrier selection -->
+  <string name="shortcut_carrier_title">Operadores de red</string>
 </resources>
